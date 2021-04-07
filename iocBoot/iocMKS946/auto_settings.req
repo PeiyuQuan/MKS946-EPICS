@@ -1,0 +1,5 @@
+
+#file "mks946_settings.req",   P=UWXRD:MKS946:, MFC=mfc1
+#file "mks946_settings.req",   P=UWXRD:MKS946:, MFC=mfc2
+file "mks946_settings.req",   P=UWXRD:MKS946:, MFC=mfc3
+

@@ -1,0 +1,5 @@
+$(P)$(MFC):setscalefactor
+$(P)$(MFC):setscalerange
+$(P)$(MFC):setpoint
+$(P)$(MFC):setmode
+
